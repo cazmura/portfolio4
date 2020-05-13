@@ -1,0 +1,20 @@
+{
+  "name": "portfolio4",
+  "version": "1.0.0",
+  "description": "\"# FishRecognizer\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cazmura/portfolio4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cazmura/portfolio4/issues"
+  },
+  "homepage": "https://github.com/cazmura/portfolio4#readme"
+}
