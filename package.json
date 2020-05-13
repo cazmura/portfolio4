@@ -2,9 +2,9 @@
   "name": "portfolio4",
   "version": "1.0.0",
   "description": "\"# FishRecognizer\"",
-  "main": "index.js",
+  "main": "customvision_script.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node customvision_script.js"
   },
   "repository": {
     "type": "git",
