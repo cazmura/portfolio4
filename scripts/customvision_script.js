@@ -15,8 +15,8 @@ $(function () {
 
         // Custom Vision の Subscription Key と URL をセット
         // サブスクリプション画面に表示される URL および Key をコピーしてください
-        var predictionKey = "<Custom Vision の Prediction Key を入力>";
-        var endpoint = "EndPointのURLを入れる";
+        var predictionKey = "a381bc22ad5f4035a591c18bb8042712";
+        var endpoint = "https://protoout-lesson-portfolio.cognitiveservices.azure.com/";
         
         // Custom Vision 呼び出し URL をセット
         var webSvcUrl = endpoint;       
